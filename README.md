@@ -17,11 +17,13 @@
 - [GitHub Student Developer Pack](https://education.github.com/pack)
   
 ## GitHub Repo 
-- [Sample Code for GPT-Training with GPT-4](https://github.com/jennifermarsman/GPT-Training)
+- [GPT-Training with GPT-4](https://github.com/jennifermarsman/GPT-Training)
 
 - [AI-Conversational-Copilot](https://github.com/amulchapla/AI-Conversational-Copilot)
 
 - [Azure OpenAI Demo](https://github.com/retkowsky/Azure-OpenAI-demos)
+
+- [Azure OpenAI Speech to Speech Chat](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/openai-speech?tabs=windows&pivots=programming-language-python)
 
 ## Additional reading materials
 
