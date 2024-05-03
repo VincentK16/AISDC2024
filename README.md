@@ -18,7 +18,7 @@
 
 - [GitHub Student Developer Pack](https://education.github.com/pack)
   
-## 📜 GitHub Repo 
+## 📜 Sample Codes
 - [GPT-Training with GPT-4](https://github.com/jennifermarsman/GPT-Training)
 
 - [AI-Conversational-Copilot](https://github.com/amulchapla/AI-Conversational-Copilot)
