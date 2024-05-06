@@ -6,7 +6,7 @@ On Azure portal, scroll down and you will see the "Subscription' icon, click on 
 ![image](https://github.com/VincentK16/AISDC2024/assets/3338753/701090aa-6e2b-4f9e-adc0-36716c2f3f1d)
 
 ### For question #5 (Your Company Email Address)
-Fill in your school email accounts. For example: "<your-email>"@moe.edu.sg
+Fill in your school email accounts. For example: "your-email"@moe.edu.sg
 
 ### For question #6 to #13: 
 Fill in with your school information
