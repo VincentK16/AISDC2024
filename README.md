@@ -5,11 +5,26 @@
 - [AI Odyssey](https://aka.ms/aiodysseySG)
   
 ## 💫 BE INSPIRED 
+### Copilot
+Difficulty level: ⭐
+- [Explore generative AI with Copilot in Bing](https://learn.microsoft.com/en-us/training/modules/explore-generative-ai-copilot-bing/)
+
+- [Craft effective prompts for Microsoft Copilot for Microsoft 365](https://learn.microsoft.com/en-us/training/courses/ms-4005)
+
+Difficulty level: ⭐⭐
+- [Copilot for Microsoft 365 for Administrators](https://learn.microsoft.com/en-us/training/courses/ms-4006)
+
+### Azure
+Difficulty level: ⭐
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+
+Difficulty level: ⭐⭐
+
+- [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
+
 - [Training - Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 
 - [Applied Skills Credentials - Develop generative AI solutions with Azure OpenAI Service ](https://learn.microsoft.com/en-gb/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/)
-
-- [Explore generative AI with Copilot in Bing](https://learn.microsoft.com/en-us/training/modules/explore-generative-ai-copilot-bing/)
 
 ## 🎁 Get Started for FREE
 - [Azure for Student](https://azure.microsoft.com/en-us/free/students/)
