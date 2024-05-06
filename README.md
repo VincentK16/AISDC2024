@@ -45,7 +45,7 @@ Difficulty level: ⭐⭐
 ## 🎁 Get Started for FREE
 - [Azure for Student](https://azure.microsoft.com/en-us/free/students/)
 
-- [⚠️Apply Access for Azure OpenAI](https://aka.ms/oai/access)
+- [⚠️Apply Access for Azure OpenAI](https://aka.ms/oai/access), refer to [access-aoai.md](https://github.com/VincentK16/AISDC2024/blob/main/access-aoai.md) on how to fill up the form. 
 
 - [GitHub Student Developer Pack](https://education.github.com/pack)
   
