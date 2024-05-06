@@ -5,7 +5,7 @@
 - [AI Odyssey](https://aka.ms/aiodysseySG)
   
 ## 💫 BE INSPIRED 
-### Copilot
+### M365 Copilot
 Difficulty level: ⭐
 - [Explore generative AI with Copilot in Bing](https://learn.microsoft.com/en-us/training/modules/explore-generative-ai-copilot-bing/)
 
@@ -13,6 +13,17 @@ Difficulty level: ⭐
 
 Difficulty level: ⭐⭐
 - [Copilot for Microsoft 365 for Administrators](https://learn.microsoft.com/en-us/training/courses/ms-4006)
+
+### GitHub Copilot
+Difficulty level: ⭐
+- [GitHub Copilot Fundamentals](https://learn.microsoft.com/en-us/training/paths/copilot/)
+  
+- [Get started with GitHub and Visual Studio Code](https://learn.microsoft.com/en-us/training/paths/get-started-github-and-visual-studio-code/)
+
+- [Guided project - Build auto suggest engine with Copilot](https://learn.microsoft.com/en-us/training/modules/build-auto-suggest-engine-copilot/)
+
+Difficulty level: ⭐⭐
+- [Challenge project - Build a minigame with GitHub Copilot and Python](https://learn.microsoft.com/en-us/training/modules/challenge-project-create-mini-game-with-copilot/)
 
 ### Azure
 Difficulty level: ⭐
