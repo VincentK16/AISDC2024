@@ -4,7 +4,7 @@
 ## 🏋️‍♀️ AI Odyssey (LIMITED TIME Challange)
 - [AI Odyssey](https://aka.ms/aiodysseySG)
 
-## Recmmended Azure AI Learning Roadmap
+## Recommended Azure AI Learning Roadmap
 ![image](https://github.com/VincentK16/AISDC2024/assets/3338753/4dd6b427-ad33-4d05-8114-2aa65f8baaae)
 
 ## 💫 BE INSPIRED 
