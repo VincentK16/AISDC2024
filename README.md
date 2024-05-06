@@ -5,6 +5,20 @@
 - [AI Odyssey](https://aka.ms/aiodysseySG)
   
 ## 💫 BE INSPIRED 
+### Azure
+🎈For Azure Beginner: 
+- [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+
+- [Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification)
+
+What could be next:
+
+- [Microsoft Certified: Azure AI Engineer Associate (AI-102)](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
+
+- [Training - Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
+
+- [Applied Skills Credentials - Develop generative AI solutions with Azure OpenAI Service ](https://learn.microsoft.com/en-gb/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/)
+
 ### M365 Copilot
 Difficulty level: ⭐
 - [Explore generative AI with Copilot in Bing](https://learn.microsoft.com/en-us/training/modules/explore-generative-ai-copilot-bing/)
@@ -24,18 +38,6 @@ Difficulty level: ⭐
 
 Difficulty level: ⭐⭐
 - [Challenge project - Build a minigame with GitHub Copilot and Python](https://learn.microsoft.com/en-us/training/modules/challenge-project-create-mini-game-with-copilot/)
-
-### Azure
-Difficulty level: ⭐
-- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
-
-Difficulty level: ⭐⭐
-
-- [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
-
-- [Training - Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
-
-- [Applied Skills Credentials - Develop generative AI solutions with Azure OpenAI Service ](https://learn.microsoft.com/en-gb/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/)
 
 ## 🎁 Get Started for FREE
 - [Azure for Student](https://azure.microsoft.com/en-us/free/students/)
