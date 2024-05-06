@@ -58,4 +58,5 @@ Difficulty level: ⭐⭐
 ## 📖 Additional reading materials
 
 - [5 new developer opportunities in this AI era](https://www.linkedin.com/pulse/5-new-developer-opportunities-ai-era-satya-nadella/)
+- [Microsoft Certification Poster](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
 
