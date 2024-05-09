@@ -22,6 +22,8 @@ What could be next:
 
 - [Applied Skills Credentials - Develop generative AI solutions with Azure OpenAI Service ](https://learn.microsoft.com/en-gb/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/)
 
+- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
+
 ### M365 Copilot
 Difficulty level: ⭐
 - [Explore generative AI with Copilot in Bing](https://learn.microsoft.com/en-us/training/modules/explore-generative-ai-copilot-bing/)
