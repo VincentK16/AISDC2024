@@ -511,8 +511,8 @@ def extractive_summary():
         document = [request.form.get('text')]
         summary_type = request.form.get('summary_type')
 
-        endpoint = "https://58101-demo.cognitiveservices.azure.com/"
-        key = "f2639704209c4a11b9fba4e033c20b24"
+        endpoint = "replace with your Azure AI language endpoint"
+        key = "replace with your Azure AI key"
 
         text_analytics_client = TextAnalyticsClient(
             endpoint=endpoint,
@@ -603,9 +603,6 @@ def custom_qna():
         # Render 'custom_qna.html' for GET requests
         return render_template('custom_qna.html')
     
-@app.route('/continuous_recognition', methods=['GET'])
-def recognition():
-    return render_template('continuous_recognition.html')
 
 
 if __name__ == '__main__':
