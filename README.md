@@ -60,6 +60,8 @@ Difficulty level: ⭐⭐
 
 - [Azure OpenAI Speech to Speech Chat](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/openai-speech?tabs=windows&pivots=programming-language-python)
 
+- [Azure AI Services Web App](https://github.com/VincentK16/AISDC2024/tree/main/AzureAI-WebApp)
+
 ## 📖 Additional reading materials
 
 - [5 new developer opportunities in this AI era](https://www.linkedin.com/pulse/5-new-developer-opportunities-ai-era-satya-nadella/)
