@@ -49,7 +49,7 @@ Difficulty level: ⭐⭐
 
 - [⚠️Apply Access for Azure OpenAI](https://aka.ms/oai/access), refer to [access-aoai.md](https://github.com/VincentK16/AISDC2024/blob/main/access-aoai.md) on how to fill up the form. 
 
-- [GitHub Student Developer Pack](https://education.github.com/pack)
+- [GitHub Student Developer Pack](https://education.github.com/pack) - [Step by step for setting up](https://techcommunity.microsoft.com/t5/educator-developer-blog/step-by-step-setting-up-github-student-and-github-copilot-as-an/ba-p/3736279)
   
 ## 📜 Sample Codes
 - [GPT-Training with GPT-4](https://github.com/jennifermarsman/GPT-Training)
